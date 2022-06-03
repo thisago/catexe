@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.1.0"
-author        = "Luciano Lorenzo"
+author        = "Thiago Navarro"
 description   = "Cat alternative for windows"
 license       = "MIT"
 srcDir        = "src"
